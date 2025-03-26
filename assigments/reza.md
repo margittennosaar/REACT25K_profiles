@@ -1,6 +1,6 @@
 # 👋 About Me
 
-Hi! I'm **Reza**, and I'm learning to become a **Full Stack Developer**. I recently started my journey at **Business College Helsinki**, where I'm learning web development and **WordPress**.
+Hi! I'm **Reza**, and I'm learning to become a **Full Stack Developer**. I recently started my journey at [**Business College Helsinki**](https://www.bc.fi), where I'm learning web development and **WordPress**.
 
 ## 📚 What I'm Learning
 
