@@ -11,8 +11,5 @@ Hi! I'm **Reza**, and I'm learning to become a **Full Stack Developer**. I recen
 
 To become a skilled **Full Stack Developer** and master **WordPress**.
 
-## 📬 Contact Me
 
-- GitHub: [github.com/yourusername](#)
 
-_Thanks for checking visit my portfolio!_
