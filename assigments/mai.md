@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;I'm+Your+Name+Here!;Full+Stack+Developer;Creative+Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;I'm Mai Tran!;Full+Stack+Developer;Creative+Problem+Solver" />
 </h1>
 
 <h3 align="center">A passionate web developer building digital experiences that matter</h3>
@@ -35,9 +35,6 @@
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </div>
