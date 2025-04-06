@@ -10,7 +10,7 @@
 
 ###
 
-![profile picture](images/profile_picture.png)
+<img align="center" src="images/profile_picture">
 
 <p align="center">Architect by training, graphics designer, photographer and chef by choice. <br>Currently studying at BC, Helsinki<br>Full stack developer</p>
 
