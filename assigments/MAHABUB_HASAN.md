@@ -31,18 +31,3 @@ I'm a web developer with a strong passion for building clean, efficient, and sca
 - VS Code
 
 ---
-
-## 🔧 What I Usually Work With
-
-```bash
-// Backend
-- PHP, Laravel, RESTful APIs
-
-// Frontend
-- React, JavaScript, HTML/CSS, Responsive Design
-
-// Database
-- MySQL, basic MongoDB
-
-// Tools
-- Git, GitHub, Postman, XAMPP
