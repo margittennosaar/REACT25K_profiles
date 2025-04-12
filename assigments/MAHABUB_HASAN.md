@@ -1,33 +1,28 @@
-# 👋 Hey there, I’m Mahabub Hasan Bayzid
+<div align="center">
 
-I'm a web developer with a strong passion for building clean, efficient, and scalable web applications. I love working on both frontend and backend technologies, and I'm always curious to learn new things and take on exciting challenges.
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQEqrP4Yp4bT2Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729626683155?e=1749686400&v=beta&t=XaHLAvlzgM-pE-wTeptHfoZzgBawjsSrk8OtpEY0yYM" alt="Mahabub Hasan Bayzid" width="80%" style="border-radius: 10px;">
 
----
+  <h1>Hey there! 👋 I'm Mahabub Hasan Bayzid</h1>
 
-## 💡 About Me
+  <p align="center">
+    A backend-focused developer diving deep into the art of crafting robust and scalable server-side solutions. I get a real kick out of architecting systems that are not just functional, but also efficient and a joy to maintain.
+  </p>
 
-- 🔭 Currently working on improving my full-stack development skills
-- 🌱 Exploring **Laravel**, **React**, and modern **PHP** practices
-- 💬 Always up for a chat about backend architecture, APIs, or JavaScript frameworks
-- 🎯 I like writing clean code and solving real-world problems
-- 📫 You can reach me at **mahabubhasanbayzid@gmail.com**
+  <p align="center">
+    <a href="www.linkedin.com/in/mahabub-hasan-bayzid-97a784248" target="_blank">
+      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://twitter.com/MH Bayzid" target="_blank">
+      <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
+    </a>
+    <a href="https://stackoverflow.com/users/[YOUR_STACKOVERFLOW_ID]" target="_blank">
+      <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+    </a>
+    <a href="mailto:mhbayzid009@gmail.com">
+      <img alt="Email" src="https://img.shields.io/badge/-Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </p>
 
----
-
-## 🧰 Tech Stack
-
-### Languages
-- PHP
-- JavaScript (ES6+)
-- HTML5 & CSS3
-- SQL
-
-### Frameworks & Tools
-- Laravel
-- React.js
-- Bootstrap / Tailwind CSS
-- MySQL
-- Git & GitHub
-- VS Code
+</div>
 
 ---
